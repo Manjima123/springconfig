@@ -6,6 +6,3 @@ db:
   connection: connection-string-here-from-config-server
   host: 127.0.0.1
   port: 1200
-
-  management.endpoints.web.exposure.include: "*"
-  spring.profile.active: test
